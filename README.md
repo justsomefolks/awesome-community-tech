@@ -24,3 +24,6 @@ Curated list of awesome community technologies
 
 ### E-Cycling
 - [E-Cycling Central](http://www.ecyclingcentral.com)
+
+### Web Technology
+- [Ethereum Learning Guide](https://ethereum.gitbooks.io/frontier-guide/content/ethereum.html)
