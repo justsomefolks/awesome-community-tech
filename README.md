@@ -17,6 +17,7 @@ Curated list of awesome community technologies
 - [Raise Salmon in a Tank](http://animals.mom.me/how-to-raise-salmon-in-a-tank-8389841.html)
 - [7 Aquaponics Fish Species](http://homeaquaponicssystem.com/fish/top-7-aquaponics-fish-species/)
 - [The Aquaponic Farmer (Book)](https://www.amazon.com/Aquaponic-Farmer-Complete-Operating-Commercial/dp/086571858X/ref=sr_1_4?s=books&ie=UTF8&qid=1510378310&sr=1-4&keywords=aquaponics)
+- [Solar Greenhouses](http://www.adobehousefarm.com/about/solar-greenhouse/) (For growing in high deserts)
 
 ### Fitness
 - [DIY Kettlebell T-bar](http://www.endofthreefitness.com/how-to-build-a-kettlebell-in-36-seconds/)
