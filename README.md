@@ -4,6 +4,9 @@ Curated list of awesome community technologies
 ### Communities
 - [Urban Farming Guys](http://theurbanfarmingguys.com/our-story) - Group of family recolonized one of the worst parts of Kansas City by buying up a neighborhood block for urban homesteading.
 
+### Libraries and Projects
+- [Open Source Ecology: Civilization in a box](http://opensourceecology.org/wiki/Global_Village_Construction_Set)
+
 ### Farming
 - [Urban Farming Curtis Stone](https://www.youtube.com/user/urbanfarmercstone)
 - [Mini Farming](https://www.amazon.com/Mini-Farming-Self-Sufficiency-Brett-Markham/dp/1602399840/ref=sr_1_1?ie=UTF8&qid=1510375050&sr=8-1&keywords=mini+farming)
