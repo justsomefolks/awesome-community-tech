@@ -20,7 +20,10 @@ Curated list of awesome community technologies
 - [Wireless Mesh Networking Video Intro](https://www.youtube.com/watch?v=T7fJwAyALss)
 - [Open Mesh Video Introduction](https://www.youtube.com/watch?v=1YOoT3NxgYg)
 - [OpenNIC - Alternative DNS](https://www.opennic.org)
-- [Namecoin - Decentralized DNS and Web Identity](https://www.namecoin.org)
+- [NameCoin - Decentralized DNS and Web Identity](https://www.namecoin.org)
+- [FileCoin - Decentralized File Storage Token](https://filecoin.io/)
+- [IPFS - Interplanetary File System](https://ipfs.io/) - Decentralized, Immutable, Content-addressable file storage where storage is paid by people interested in the content.
+- [Federated Wiki](https://github.com/fedwiki) - From one of the original co-inventors of the Wiki
 
 ### E-Cycling
 - [E-Cycling Central](http://www.ecyclingcentral.com)
