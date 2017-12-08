@@ -23,6 +23,9 @@ Curated list of awesome community technologies
 ### Fitness
 - [DIY Kettlebell T-bar](http://www.endofthreefitness.com/how-to-build-a-kettlebell-in-36-seconds/)
 
+### Computer Security
+- [Surveillance Self Defense](https://ssd.eff.org/en/index)
+
 ### Computer Networking
 - [Building Wireless Sensor Networks](https://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732/ref=sr_1_5?s=books&ie=UTF8&qid=1510375433&sr=1-5&keywords=mesh+network)
 - [Wireless Mesh Networking Video Intro](https://www.youtube.com/watch?v=T7fJwAyALss)
